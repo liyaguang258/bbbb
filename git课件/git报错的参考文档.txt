@@ -1,0 +1,10 @@
+
+
+git报 权限不足参考文档
+
+https://www.cnblogs.com/chenshy/p/9405680.html
+
+
+git连接github超时问题Connection timed out 参考文档
+
+https://jingyan.baidu.com/article/ca00d56c4861b0e99febcf6e.html
